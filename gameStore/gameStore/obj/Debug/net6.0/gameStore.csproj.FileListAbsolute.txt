@@ -1,0 +1,15 @@
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\bin\Debug\net6.0\gameStore.exe
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\bin\Debug\net6.0\gameStore.deps.json
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\bin\Debug\net6.0\gameStore.runtimeconfig.json
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\bin\Debug\net6.0\gameStore.dll
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\bin\Debug\net6.0\gameStore.pdb
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.csproj.AssemblyReference.cache
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.AssemblyInfoInputs.cache
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.AssemblyInfo.cs
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.csproj.CoreCompileInputs.cache
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.dll
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\refint\gameStore.dll
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.pdb
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\gameStore.genruntimeconfig.cache
+C:\Users\diego.p.campos\Documents\Projects\gameStore\gameStore\gameStore\obj\Debug\net6.0\ref\gameStore.dll
