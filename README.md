@@ -1,0 +1,2 @@
+# gameStore
+Loja de games
